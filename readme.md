@@ -1,3 +1,5 @@
+# this is edu tech website#
+
 Currently, here i am used React, firebase, react router, node, express, mongodb etc.
 
 Live Site Link: https://ed-tech-160da.web.app/
